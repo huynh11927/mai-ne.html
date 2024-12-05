@@ -6,7 +6,7 @@
 <body>
 <h2>TRAN NGOC XUAN MAI- NHÓM 2 - LỚP 12 LÝ</h2>
 <p><strong>Ten:</strong> <span>Tran Ngoc Xuan Mai</span></p>  
-<img src="mai.png" alt="Bánh mì que!">
+<img src="mai.jpg" alt="Bánh mì que!">
 <p><strong>lop:</strong> <span>12ly</span></p>                
 <p><strong>ngay sinh:</strong> <span>12/10/2007</span></p>                 
 <p><strong>noi o:</strong> <span>thanh pho Ben Tre</span></p>                
